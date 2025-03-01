@@ -32,6 +32,3 @@ Este projeto foi desenvolvido durante um curso na [Alura](https://www.alura.com.
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
