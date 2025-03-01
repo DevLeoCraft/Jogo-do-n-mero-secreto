@@ -27,10 +27,6 @@ Este projeto foi desenvolvido durante um curso na [Alura](https://www.alura.com.
    ```
 3. Abra o arquivo `index.html` em seu navegador preferido.
 
-## Deploy
-
-A aplicação está hospedada e pode ser acessada através do seguinte link:
-[Jogo do Número Secreto](https://devleocraft.github.io/Jogo-do-numero-secreto/)
 
 ## Contribuições
 
